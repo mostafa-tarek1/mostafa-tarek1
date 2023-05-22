@@ -1,4 +1,10 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Mostafa tarek 🌹🌹</h1>
+<h2 align="center">Frontend Developer 💎</h2>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💕" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=MahmoudAbdullahAnani&label=Profile%20views&color=004080&style=flat" alt="mahmoud-abdullah-anani" height="40" width="240" /> -->
+	           <img src="https://img.shields.io/github/followers/MahmoudAbdullahAnani?label=Followers&color=800000&style=flat" alt="mahmoud-abdullah-anani" height="40" width="160" />
+</p>
+<br>
 🔭 I’m currently working as a freelance Developer in Egypt<br>🌱 I’m currently learning Web Developement & php<br>💬 Ask me about anything, i am happy to help;<br>😄 Pronouns: He / Him<br>⚡ Fun fact: je de floop flee
 
 
@@ -36,4 +42,3 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
